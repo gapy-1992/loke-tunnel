@@ -1,0 +1,25 @@
+Flow ID,Test Steps,Flow Priority
+3,"step 1: Navigate to Page_product_chekhol-tetrad
+step 2: At Page_product_chekhol-tetrad click on button_object
+step 3: At Page_product_chekhol-tetrad click on label_object
+step 4: At Page_product_chekhol-tetrad click on button_object
+step 5: At Page_product_chekhol-tetrad click on hyperlink_cart --> navigate to Page_cart
+step 6: Add visual checkpoint at Page_cart",High
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_product_chekhol_santa_matreshka --> navigate to Page_product_chekhol-santa-matreshka
+step 3: Add visual checkpoint at Page_product_chekhol-santa-matreshka",Medium
+2,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_shipping --> navigate to Page_shipping
+step 3: Add visual checkpoint at Page_shipping",Low
+6,"step 1: Navigate to Page_checkout_payment
+step 2: Add visual checkpoint at Page_checkout_payment",Low
+5,"step 1: Navigate to Page_category_chekhly-na-iphone
+step 2: Add visual checkpoint at Page_category_chekhly-na-iphone",Low
+4,"step 1: Navigate to Page_checkout_shipping-address
+step 2: Add visual checkpoint at Page_checkout_shipping-address",Trivial
+8,"step 1: Navigate to Page_category_chekhly-na-ipad
+step 2: Add visual checkpoint at Page_category_chekhly-na-ipad",Trivial
+9,"step 1: Navigate to Page_category_chekhly-dlya-samsung
+step 2: Add visual checkpoint at Page_category_chekhly-dlya-samsung",Trivial
+7,"step 1: Navigate to Page_thank-you_e647b80e-2b34-49b7-895e-49b1939d1856
+step 2: Add visual checkpoint at Page_thank-you_e647b80e-2b34-49b7-895e-49b1939d1856",Trivial

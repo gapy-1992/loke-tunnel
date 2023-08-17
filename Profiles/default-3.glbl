@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'demo'</initValue>
+        <name>username</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'saucedemop'</initValue>
+        <name>password</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://locthn-ai-shop.vercel.app'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>default-3</name>
+    <tag></tag>
+</GlobalVariableEntities>
